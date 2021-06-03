@@ -1,0 +1,24 @@
+{
+  "name": "MasterCai",
+  "version": "1.0.0",
+  "description": "前端必背技能\r >旨在记录在前端学习之路上遇到的难题和解决方案 --作者 lilili 引用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HacHacer/MasterCai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HacHacer/MasterCai/issues"
+  },
+  "homepage": "https://github.com/HacHacer/MasterCai#readme",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.10",
+    "@alicloud/sms-sdk": "^1.1.6"
+  }
+}
