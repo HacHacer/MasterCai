@@ -1,27 +1,21 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <button @click="getList">点击</button>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue'
-import HelloWorld from './components/HelloWorld.vue'
-
+<script lang='ts'>
+import {defineComponent} from 'vue'
+import {getListAPI} from '@/api/goods.js';
 export default defineComponent({
-  name: 'App',
-  components: {
-    HelloWorld
+  setup() { 
+    function getList() {
+      getListAPI().then(res => {
+        console.log(res)
+      })
+    }
+
+    return {
+      getList
+    }
   }
 })
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
