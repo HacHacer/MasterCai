@@ -1,5 +1,7 @@
 {
     "editor.codeActionsOnSave": null,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000
+    "files.autoSaveDelay": 1000,
+    "ng-zorro-vscode.hover": true,
+    "ng-zorro-vscode.inlineTemplate": true,
 }

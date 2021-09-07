@@ -1,4 +1,17 @@
-import { createApp } from 'vue'
+import { createApp, onMounted } from 'vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+const app=createApp(App)
+app.directive('lazy-image',{
+    created(){},
+    beforeMount(el,binding){
+        el.$data_src=binding.value
+    },
+    mounted(){},
+    beforeUpdate(){},
+    updated(){},
+    beforeUnmount(){},
+    unmounted(){}
+})
+app.mount("#app");
+
