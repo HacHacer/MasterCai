@@ -1,0 +1,336 @@
+{
+   "checksum": "c1ace17b8f98d064a9eaf108bd988f47",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13233232251899908",
+            "guid": "0ee174d6-a7e1-4534-8548-9cfd888a34ce",
+            "id": "32",
+            "name": "前端工程化那些事 - 掘金",
+            "type": "url",
+            "url": "https://juejin.im/post/5e999cecf265da47cd357a24#heading-13"
+         }, {
+            "date_added": "13256979222130920",
+            "guid": "bdc612ad-7032-4a9e-a516-f6c382100e71",
+            "id": "91",
+            "name": "现代 JavaScript 教程",
+            "type": "url",
+            "url": "https://zh.javascript.info/"
+         }, {
+            "date_added": "13240566738952393",
+            "guid": "4a373702-65f3-479f-be13-b7bd20b55735",
+            "id": "40",
+            "name": "百度一下，你就知道",
+            "type": "url",
+            "url": "https://www.baidu.com/"
+         }, {
+            "date_added": "13275470008305547",
+            "guid": "b845a73d-5b0a-46f0-8eee-4b7e17c35c9b",
+            "id": "119",
+            "name": "Angular学习笔记26：使用Webpack bundle analyzer对 ...",
+            "type": "url",
+            "url": "https://blog.csdn.net/wjyyhhxit/article/details/84869472"
+         }, {
+            "date_added": "13241183514038817",
+            "guid": "39707474-00ab-414e-a31c-f2c651e93ed4",
+            "id": "42",
+            "name": "字节跳动面试官：请你实现一个大文件上传和断点续传 - 掘金",
+            "type": "url",
+            "url": "https://juejin.im/post/6844904046436843527#heading-8"
+         }, {
+            "date_added": "13241501554745333",
+            "guid": "d443fa15-3b9b-4b22-9ae0-70d00391833b",
+            "id": "44",
+            "name": "ECMAScript® 2018 Language Specification",
+            "type": "url",
+            "url": "https://ecma262.docschina.org/"
+         }, {
+            "date_added": "13241599536787505",
+            "guid": "cbe62551-b798-45d5-88e2-2b2970ef812e",
+            "id": "47",
+            "name": "WebRTC",
+            "type": "url",
+            "url": "https://rtcdeveloper.com/t/topic/435"
+         }, {
+            "date_added": "13242102305185960",
+            "guid": "0b4a5b98-657c-4a57-8982-35e393627561",
+            "id": "49",
+            "name": "一名【合格】前端工程师的自检清单 - code秘密花园 - SegmentFault 思否",
+            "type": "url",
+            "url": "https://segmentfault.com/a/1190000018992363#item-2"
+         }, {
+            "date_added": "13242306666513751",
+            "guid": "2eab92a7-f5b6-4e9f-bef0-c8f21b83999d",
+            "id": "51",
+            "name": "撸一个多人视频聊天 — 前端 WebRTC 实战（一） | WebRTC中文网-最权威的RTC实时通信平台",
+            "type": "url",
+            "url": "https://webrtc.org.cn/20190411_multi_webrtc_1/"
+         }, {
+            "date_added": "13243951586877194",
+            "guid": "f7ec51fd-64ea-4ae0-9433-9e1f8f11fdd8",
+            "id": "57",
+            "name": "概览 | RxJS 中文文档",
+            "type": "url",
+            "url": "https://cn.rx.js.org/manual/overview.html"
+         }, {
+            "date_added": "13247114644991309",
+            "guid": "a4078114-860d-4c57-ac39-5fc8399c4835",
+            "id": "65",
+            "name": "wsydxiangwang/Note: ☔️ 前端学习笔记，JavaScript，CSS，设计模式，数据结构，算法，手写API，Vue源码解析，前端面试题，记录只是为了更好的摸鱼，从入门到放弃。",
+            "type": "url",
+            "url": "https://github.com/wsydxiangwang/Note"
+         }, {
+            "date_added": "13247062639502446",
+            "guid": "68de0a37-4f72-49c1-8437-8b272a2bb252",
+            "id": "61",
+            "name": "iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+            "type": "url",
+            "url": "https://ithelp.ithome.com.tw/"
+         }, {
+            "date_added": "13247062649552665",
+            "guid": "73255a8d-c21c-48b1-9d76-505f4ba0f728",
+            "id": "62",
+            "name": "NodeSchool",
+            "type": "url",
+            "url": "https://nodeschool.io/zh-cn/"
+         }, {
+            "date_added": "13247062664320481",
+            "guid": "957102dd-fd59-49aa-ad62-aefe014894ee",
+            "id": "63",
+            "name": "CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/"
+         }, {
+            "date_added": "13247129010560901",
+            "guid": "ad413faa-784b-4fd1-95f6-a89cd719bcbb",
+            "id": "67",
+            "name": "mqyqingfeng/Blog: 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+            "type": "url",
+            "url": "https://github.com/mqyqingfeng/Blog"
+         }, {
+            "date_added": "13247651946962972",
+            "guid": "e0eba2bc-b001-4f4a-b2ed-fbe2207a9006",
+            "id": "69",
+            "name": "fromEvent · 学习 RxJS 操作符",
+            "type": "url",
+            "url": "https://rxjs-cn.github.io/learn-rxjs-operators/operators/creation/fromevent.html"
+         }, {
+            "date_added": "13249742500072477",
+            "guid": "b297b16d-a5e5-414b-8995-2bc5fef780a2",
+            "id": "71",
+            "name": "Best of JavaScript",
+            "type": "url",
+            "url": "https://bestofjs.org/"
+         }, {
+            "date_added": "13250253350318696",
+            "guid": "8922da9e-5078-4f9f-ba97-55dcc72be7e6",
+            "id": "73",
+            "name": "RxMarbles: Interactive diagrams of Rx Observables",
+            "type": "url",
+            "url": "https://rxmarbles.com/#map"
+         }, {
+            "date_added": "13250854530564513",
+            "guid": "cba26e85-23c6-422a-b260-cb9efce4ccb5",
+            "id": "75",
+            "name": "安装 | Vue.js",
+            "type": "url",
+            "url": "https://v3.cn.vuejs.org/guide/installation.html#%E4%BD%BF%E7%94%A8-cdn-%E6%88%96%E6%B2%A1%E6%9C%89%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7"
+         }, {
+            "date_added": "13250854997231940",
+            "guid": "89e2785b-6d5a-49a8-97b2-469bf9388e7c",
+            "id": "76",
+            "name": "ES6 完全使用手册",
+            "type": "url",
+            "url": "https://juejin.cn/post/6844903726201700365"
+         }, {
+            "date_added": "13251353283334864",
+            "guid": "0dc9a3dd-b537-4200-a4ee-54df1af60557",
+            "id": "78",
+            "name": "Vue3",
+            "type": "url",
+            "url": "https://vue3js.cn/"
+         }, {
+            "date_added": "13251370426874952",
+            "guid": "063da1fb-a27a-4618-9f15-6bccb0002a1f",
+            "id": "80",
+            "name": "vite ⚡ 中文文档 | Vite Design",
+            "type": "url",
+            "url": "https://vite-design.surge.sh/guide/chinese-doc.html"
+         }, {
+            "date_added": "13251353297851635",
+            "guid": "d5f782c9-2052-4f4a-99f6-bd7f9e7a903d",
+            "id": "79",
+            "name": "cubic-bezie",
+            "type": "url",
+            "url": "https://cubic-bezier.com/#.17,.67,.83,.67"
+         }, {
+            "date_added": "13251869817437525",
+            "guid": "7d7905be-4100-4f4e-92fe-a68fff5e152b",
+            "id": "82",
+            "name": "webpack 项目构建",
+            "type": "url",
+            "url": "https://segmentfault.com/a/1190000013586090#:~:text=%E4%BA%8C%E3%80%81%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E3%80%81%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E5%92%8C%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%201%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%98%AF%E6%8C%87%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E3%80%81%E7%BC%96%E5%86%99%E4%BB%A3%E7%A0%81%E6%97%B6%E7%9A%84%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%EF%BC%9B%202,%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%98%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%E8%BF%87%E6%B8%A1%EF%BC%8C%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91%E5%AE%8C%E6%88%90%EF%BC%8C%E5%9C%A8%E5%B0%86%20...%203%20%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E6%98%AF%E5%B0%86%E4%BB%A3%E7%A0%81%E6%89%93%E5%8C%85%E5%8F%91%E5%B8%83%E5%88%B0%E6%AD%A3%E5%BC%8F%E7%BA%BF%E4%B8%8A%E6%89%80%E8%BF%90%E8%A1%8C%E7%9A%84%E7%8E%AF%E5%A2%83%EF%BC%9B"
+         }, {
+            "date_added": "13253100388688832",
+            "guid": "1243f6a5-9a50-444a-8f06-38749f1632ad",
+            "id": "84",
+            "name": "ant-design-vue/default.less at master · vueComponent/ant-design-vue · GitHub",
+            "type": "url",
+            "url": "https://github.com/vueComponent/ant-design-vue/blob/master/components/style/themes/default.less"
+         }, {
+            "date_added": "13253875380187285",
+            "guid": "8250212f-be86-4e6a-91d6-c1d6309d54ea",
+            "id": "86",
+            "name": "印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！",
+            "type": "url",
+            "url": "https://docschina.org/"
+         }, {
+            "date_added": "13255522485294297",
+            "guid": "80dab898-81f1-4303-b1f7-e875b4d855ac",
+            "id": "88",
+            "name": "Vue3学习资源集合 - VueClub",
+            "type": "url",
+            "url": "https://vue-js.com/topic/5ed9b90c0ef711364aa1f255"
+         }, {
+            "date_added": "13255526039700510",
+            "guid": "c12929e7-1101-42d7-b620-cd7dc8718e98",
+            "id": "89",
+            "name": "组件的本质 | 渲染器",
+            "type": "url",
+            "url": "http://hcysun.me/vue-design/zh/essence-of-comp.html#%E7%BB%84%E4%BB%B6%E7%9A%84%E4%BA%A7%E5%87%BA%E6%98%AF%E4%BB%80%E4%B9%88"
+         }, {
+            "date_added": "13258109245979756",
+            "guid": "e907fad2-14cf-4dad-abdb-6e4125413a5e",
+            "id": "93",
+            "name": "在web应用程序中使用文件 - Web API 接口参考 | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/zh-CN/docs/Web/API/File/Using_files_from_web_applications"
+         }, {
+            "date_added": "13258722337891177",
+            "guid": "807adaf8-0a85-40c9-9df3-47c6cd65a0ec",
+            "id": "95",
+            "name": "前端表单数据那些事",
+            "type": "url",
+            "url": "https://juejin.cn/post/6844903632073129997"
+         }, {
+            "date_added": "13259839632094631",
+            "guid": "2af63dac-cda8-43f8-83ea-5bc28245d7c9",
+            "id": "97",
+            "name": "medium.com",
+            "type": "url",
+            "url": "https://medium.com/swlh/building-a-chat-application-using-libp2p-7c2f990ed473"
+         }, {
+            "date_added": "13259917201659161",
+            "guid": "c2d8b0be-d8f0-4105-ab30-4f71143ac836",
+            "id": "99",
+            "name": "package.json 指南",
+            "type": "url",
+            "url": "http://nodejs.cn/learn/the-package-json-guide"
+         }, {
+            "date_added": "13259930021635999",
+            "guid": "a19c25c1-29b8-4c66-be1c-717d777b1719",
+            "id": "100",
+            "name": "libp2p",
+            "type": "url",
+            "url": "https://docs.libp2p.io/concepts/stream-multiplexing/"
+         }, {
+            "date_added": "13261567841784501",
+            "guid": "aad0dbdc-e1ca-4ac3-9448-7a70349deb5c",
+            "id": "102",
+            "name": "从零开始nodejs系列文章 | 粉丝日志",
+            "type": "url",
+            "url": "http://blog.fens.me/series-nodejs/"
+         }, {
+            "date_added": "13265289467941573",
+            "guid": "0985c38b-8846-4a53-a108-fc4864875e40",
+            "id": "104",
+            "name": "GitHub - fouber/blog: 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！",
+            "type": "url",
+            "url": "https://github.com/fouber/blog"
+         }, {
+            "date_added": "13265453706140273",
+            "guid": "debf752f-f668-46a0-9aff-07f98f7e1b90",
+            "id": "105",
+            "name": "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript",
+            "type": "url",
+            "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+         }, {
+            "date_added": "13265453994396139",
+            "guid": "4b294963-0c96-4428-a37a-ee36c0107f45",
+            "id": "106",
+            "name": "GitHub - lin-123/javascript: eslint-config-airbnb 翻译版 https://lin-123.github.io/javascript/",
+            "type": "url",
+            "url": "https://github.com/lin-123/javascript"
+         }, {
+            "date_added": "13265454221876022",
+            "guid": "ce98378a-e007-49d8-b696-c9773e20a6f1",
+            "id": "107",
+            "name": "javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms · GitHub",
+            "type": "url",
+            "url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md"
+         }, {
+            "date_added": "13266573041891765",
+            "guid": "b31282ea-eb33-452c-95aa-76e4a543981c",
+            "id": "109",
+            "name": "learnVue/从源码角度再看数据绑定.MarkDown at master · answershuto/learnVue · GitHub",
+            "type": "url",
+            "url": "https://github.com/answershuto/learnVue/blob/master/docs/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E5%86%8D%E7%9C%8B%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A.MarkDown"
+         }, {
+            "children": [ {
+               "date_added": "13273057200263277",
+               "guid": "e1838027-5656-4764-9a0d-dd06028096dd",
+               "id": "113",
+               "name": "angular风格指南",
+               "type": "url",
+               "url": "https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/zh-CN.md#%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84"
+            } ],
+            "date_added": "13273057242774899",
+            "date_modified": "13273846236384287",
+            "guid": "dd565339-6f47-4f3d-898f-97594d304bcb",
+            "id": "114",
+            "name": "angular资源",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273846236384287",
+               "guid": "3e9c260d-bb43-481f-8325-04e81b4fdb40",
+               "id": "116",
+               "name": "【Git】本地仓库强制覆盖远程仓库_DovSnier 专栏-CSDN博客_git覆盖远程仓库",
+               "type": "url",
+               "url": "https://blog.csdn.net/DovSnier/article/details/107156612"
+            } ],
+            "date_added": "13273846270909834",
+            "date_modified": "13273846270909935",
+            "guid": "35026408-4337-45f6-b1c5-2310bca067d1",
+            "id": "117",
+            "name": "git操作",
+            "type": "folder"
+         } ],
+         "date_added": "13215840059262373",
+         "date_modified": "13275470008305547",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13215840059262386",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13215840059262388",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
